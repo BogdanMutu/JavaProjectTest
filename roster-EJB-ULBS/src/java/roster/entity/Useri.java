@@ -2,7 +2,7 @@ package roster.entity;
 
 import java.io.Serializable;
 import javax.persistence.*;
-/**
+/**test
  *
  * @author Mada
  */
